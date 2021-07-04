@@ -30,4 +30,4 @@
 
 Congratulations. Now everyone can see and use your mod!
 
-<span style="color:red">WARNING: Links to moddb are not supported (yet).</span>
+__**WARNING: Links to moddb are not supported (yet).**__

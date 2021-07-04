@@ -24,7 +24,7 @@
     version: 1.0.0
     ```
     
-    __**WARNING: Links to moddb are not supported (yet).**__
+    __**WARNING: Links to moddb are not supported.**__
 
 #### Updating your mod is simple and does not require any additional PRs:
 1. Modify your files in `http://awesome-mod.com/BigFiles.zip`.

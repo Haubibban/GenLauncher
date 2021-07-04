@@ -29,3 +29,6 @@
 2. Bump the version in `http://awesome-mod.com/BigFiles.zip`.
 
 Congratulations. Now everyone can see and use your mod!
+
+#### WARNING:
+Links to moddb are not supported (yet).

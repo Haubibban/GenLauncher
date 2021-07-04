@@ -3,13 +3,13 @@
 ## How to add and update your mod:
 
 1. Create a PR to `Mods.yaml` with a link to your mod.
-  1. PR example for Zero Hour mod:
+    1. PR example for Zero Hour mod:
     ```yaml
     Mod:
       MyAwesomeMod:
         link: http://awesome-mod.com/Mod.yaml
     ```
-  2. PR example for an addon to existing mod:
+    2. PR example for an addon to existing mod:
       ```yaml
       Mod:
         MyAwesomeMod:

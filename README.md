@@ -23,6 +23,8 @@
     link: http://awesome-mod.com/BigFiles.zip
     version: 1.0.0
     ```
+    
+    __**WARNING: Links to moddb are not supported (yet).**__
 
 #### Updating your mod is simple and does not require any additional PRs:
 1. Modify your files in `http://awesome-mod.com/BigFiles.zip`.
@@ -30,4 +32,3 @@
 
 Congratulations. Now everyone can see and use your mod!
 
-__**WARNING: Links to moddb are not supported (yet).**__

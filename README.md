@@ -27,8 +27,8 @@
     __**WARNING: Links to moddb are not supported.**__
 
 #### Updating your mod is simple and does not require any additional PRs:
-1. Modify your files in `http://awesome-mod.com/BigFiles.zip`.
-2. Bump the version in `http://awesome-mod.com/Mod.yaml`.
+1. Modify your files in `BigFiles.zip`.
+2. Bump the version in `Mod.yaml`.
 
 Congratulations. Now everyone can see and use your mod!
 
